@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6cca181cb619cd5",
+        "id": "da062cd1a1c1d469",
         "type": "tabs",
         "children": [
           {
-            "id": "c54824d8310addb9",
+            "id": "3cfaa10979abac3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protobuf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Protobuf"
+              "title": "New tab"
             }
           }
         ]
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protobuf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Protobuf"
+              "title": "Outgoing links"
             }
           },
           {
@@ -175,16 +170,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c54824d8310addb9",
+  "active": "aefe97fe48ef73cc",
   "lastOpenFiles": [
+    "Sockets.md",
     "Remote Procedure Call.md",
+    "QUIC.md",
+    "HTTP Protocol Versions.md",
+    "Protobuf.md",
     "HTTP/2.md",
     "HTTP",
-    "Protobuf.md",
-    "HTTP Protocol Versions.md",
-    "QUIC.md",
     "Untitled",
-    "Sockets.md",
     "Message Passing.md",
     "Excalidraw/Remote Procedure Call 2025-01-14 12.16.37.excalidraw.md",
     "Excalidraw/Remote Procedure Call 2025-01-14 12.03.54.excalidraw.md",

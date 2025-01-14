@@ -1,7 +1,11 @@
 ---
 aliases:
   - RPC
+tags:
   - IPC
+  - Communication
+  - Messages
+  - Message
 ---
 - Function call within a process -> Local Call
 ![[Remote Procedure Call 2025-01-14 12.03.54.excalidraw|200|center]]
